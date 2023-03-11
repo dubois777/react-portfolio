@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dubois777/react_upload.git/static/css/main.428a9b70.css",
-    "main.js": "/dubois777/react_upload.git/static/js/main.18949220.js",
-    "static/js/787.a2cb61a6.chunk.js": "/dubois777/react_upload.git/static/js/787.a2cb61a6.chunk.js",
-    "static/media/png": "/dubois777/react_upload.git/static/media/889b86dfb255824f611c12f367f69cb6.42e6ee1c09beb0ea7d6f.png",
-    "static/media/helvetica-neu.ttf": "/dubois777/react_upload.git/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/dubois777/react_upload.git/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/dubois777/react_upload.git/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/dubois777/react_upload.git/index.html",
-    "main.428a9b70.css.map": "/dubois777/react_upload.git/static/css/main.428a9b70.css.map",
-    "main.18949220.js.map": "/dubois777/react_upload.git/static/js/main.18949220.js.map",
-    "787.a2cb61a6.chunk.js.map": "/dubois777/react_upload.git/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react_upload/static/css/main.f623393c.css",
+    "main.js": "/react_upload/static/js/main.11bc79d2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react_upload/static/js/787.a2cb61a6.chunk.js",
+    "static/media/png": "/react_upload/static/media/889b86dfb255824f611c12f367f69cb6.42e6ee1c09beb0ea7d6f.png",
+    "static/media/helvetica-neu.ttf": "/react_upload/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/react_upload/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/react_upload/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react_upload/index.html",
+    "main.f623393c.css.map": "/react_upload/static/css/main.f623393c.css.map",
+    "main.11bc79d2.js.map": "/react_upload/static/js/main.11bc79d2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react_upload/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.428a9b70.css",
-    "static/js/main.18949220.js"
+    "static/css/main.f623393c.css",
+    "static/js/main.11bc79d2.js"
   ]
 }
