@@ -60,7 +60,7 @@ return() => {
                         <p>
                             I can speak English and Dutch pretty well. <br/>
                             Obviously is Dutch my native language but because I live in Belguim,<br />
-                            Am I aslo learning French and German in school. <br />
+                            am I aslo learning French and German in school. <br />
                             Below you can see what else I can do.
                         </p>
 

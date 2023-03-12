@@ -43,11 +43,10 @@ const Contact = () => {
                 />
                 </h1>
                 <p>
-                    I am interested in flex-jobs opportunities.
+                    I am interested in opportunities for making websites.
                     <br />
-                    keep in mind that I still need to go to school but <br/>
-                     when I have hollidays I am most of the time avaible. <br  />
-                     I live in Belguim, Limburg,  Bree and don't forget that I am very ambitious 
+                    keep in mind that I still need to go to school sometimes. <br  />
+                     I live in Belguim and don't forget that I am very ambitious 
                      and always want to learn and work about coding projects!
                 </p>
                 <div className='contact-form'>

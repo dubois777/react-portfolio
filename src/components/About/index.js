@@ -1,7 +1,6 @@
 import './index.scss'
 import AnimtedLetters from '../AnimtedLetters'
 import { useEffect, useState } from 'react'
-import {letterClass} from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngular, faCss3, faGitAlt, faHtml5, faJsSquare, faReact } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
@@ -10,11 +9,11 @@ import Loader from 'react-loaders'
 const About = () => {
 
     const About = () => {
-        const [letterClass, setLetterClass]= useState('text-animate')
+        const []= useState('text-animate')
 
         useEffect(() =>{
             return setTimeout(() => {
-                setLetterClass('text-animate-hover')
+              ('text-animate-hover')
             }, 3000)
         }, [])
 
@@ -60,7 +59,7 @@ const About = () => {
                 </div>
             <h1>
                 <AnimtedLetters
-                letterClass={letterClass}
+        
                 strArray={['A','B','O','U','T', ' ', 'M', 'E']}
                 inx={15}
                 />
@@ -72,9 +71,8 @@ const About = () => {
             <p>
                 I am turning 16 this year! I like to play 
                 football
-                 and I live in Belguim which makes that if<br />
-                you want to hire me it can take a little bit 
-                longer than others because I still need to go to school 
+                 and I live in Belguim which makes that <br />
+                I still need to go to school 
                 unfortunely.
             </p>
             <p>
